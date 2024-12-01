@@ -1,3 +1,4 @@
 First project in jenkins
 Need to pull in master
 resolve merge conflict 
+merge conflict resolved 
